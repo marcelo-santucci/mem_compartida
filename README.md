@@ -45,6 +45,10 @@ Esta compuesto de los siguientes archivos:
 
  ./escribeMemCompartida.elf "Uno" & ./escribeMemCompartida.elf "Dos" & ./escribeMemCompartida.elf "Tres" & ./escribeMemCompartida.elf "Cuatro" & ./escribeMemCompartida.elf "Cinco" <br>
 
-👁️Si esta en Mac Os agregue un ";" luego del "&"
+👁️Si esta en Mac Os agregue un ";" luego del "&" <br>
+
+ ❓¿Vario ahora el comportamiento de los mensajes?, ¿cuantos son escritos? y ¿cuantos son desplegados? <br>
+
+
  
   
